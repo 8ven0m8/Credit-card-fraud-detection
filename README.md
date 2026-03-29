@@ -10,7 +10,7 @@ RandomForest, XGBoost, LightGBM and Logistic Regression models are stacked toget
 
 Implemented StratifiedKFold, RobustScaler, GridSearchCV, StackingClassifier, Threshold Tuning and Confusion Matrix.  
 ### FastAPI:
-
+https://credit-card-fraud-detection-2ia2.onrender.com/docs
 
 Visit kaggle notebook :- https://www.kaggle.com/code/pranjalsapkota/credit-card-fraud-detection
 
