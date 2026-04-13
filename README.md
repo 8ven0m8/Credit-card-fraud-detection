@@ -9,6 +9,9 @@ RandomForest, XGBoost, LightGBM and Logistic Regression models are stacked toget
 * Using undersampled dataset which yielded f1 score of **0.80**
 
 Implemented StratifiedKFold, RobustScaler, GridSearchCV, StackingClassifier, Threshold Tuning and Confusion Matrix.  
+### Frontend (Streamlit app):
+https://credit-card-fraud-detection-frontend.streamlit.app/
+
 ### FastAPI:
 https://credit-card-fraud-detection-2ia2.onrender.com/predict (Its a free render deployment so it may be sleeping)
 
